@@ -1,5 +1,5 @@
 context:
-  version: "0.1.3"
+  version: "0.2.0"
 
 package:
   name: python-toon
@@ -7,7 +7,7 @@ package:
 
 source:
   - url: https://pypi.org/packages/source/p/python-toon/python_toon-${{ version }}.tar.gz
-    sha256: ca348b214c4f1cdad3579fd83dd60032d9eb87eb349c2d430ad9eb6371f174bf
+    sha256: 1b9fcb3fa225cb7973a2637834de08a26236013ab04da0cf80c4af73e141ccf2
 
 build:
   number: 0
